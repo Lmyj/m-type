@@ -1,0 +1,37 @@
+body{
+	margin:0;
+	padding:0;
+}
+#sence{
+	width: 660px;
+	height: 580px;
+	border:2px solid black;
+	border-radius:20px;
+	background:#00f0f0;
+	margin:20px auto;
+}
+#time{
+	width: 150px;
+	height: 70px;
+	line-height: 70px;
+	text-align: center;
+	background-color: #ff00ff;
+	position: absolute;
+	top:20px;
+	left:80px;
+	font-size: 34px;
+	color:#383A02;
+}
+.list{
+	width:75px;
+	height: 75px;
+	background:#ff00ff;
+	margin:6px 0 0 6px;
+	float: left;
+	border-radius: 20px;
+	line-height: 75px;
+	text-align: center;
+	font-size: 34px;
+	color:#383A02;
+	box-shadow:1px 1px 4px #000;
+}
